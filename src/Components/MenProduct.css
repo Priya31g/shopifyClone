@@ -1,0 +1,29 @@
+.mainCont{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 2% 10%;
+}
+
+.product_img{
+    height: 75%;
+    width: 100%;
+   
+}
+
+.product_div{
+    width: 400px;
+    height: 600px;
+    border: 1px solid lightslategray;
+    margin: 2% 5%;
+    background-color: linen;
+    color: mediumseagreen;
+    margin-top: 8%;
+}
+
+.price{
+    color: red;
+    font-size: 20px;
+}
+.h5{
+    margin: 2%;
+}

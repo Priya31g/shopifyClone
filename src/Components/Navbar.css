@@ -1,0 +1,41 @@
+.navbar{
+    display: flex;
+    height: 75px;
+    width: 100%;
+    background-color: #008060;
+    justify-content: space-between;
+    margin: 0%;
+}
+.navbar>div{
+    margin:1% 5%;
+}
+.logo{
+    height: 100%;
+    width: 75px;
+}
+.large_nav{
+    width: 75%;
+}
+.nav_div{
+    height: 100%;
+    width: 50%;
+    color: white;
+    font-size: 20px;
+}
+.flex{
+    display: flex;
+}
+.justify{
+    justify-content: space-evenly;
+}
+
+.cart{
+    height: 100%;
+    width: 100%;
+}
+
+.link_decor{
+    text-decoration: none;
+    color: white;
+    
+}
